@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d21a5350.css",
+    "main.js": "/static/js/main.dccf5711.js",
+    "static/media/NotoSansJP.woff2": "/static/media/NotoSansJP.44de4f7bb3d6a7552d1d.woff2",
+    "static/media/NotoSerifJP300.woff2": "/static/media/NotoSerifJP300.1b3c7c6820b5b1ede6d2.woff2",
+    "static/media/NotoSerifJP400.woff2": "/static/media/NotoSerifJP400.08c25052854c017e1a1d.woff2",
+    "static/media/NotoSerifJP200.woff2": "/static/media/NotoSerifJP200.23fb562b09d4cfd611be.woff2",
+    "static/media/NotoSerifJP500.woff2": "/static/media/NotoSerifJP500.9e055521500e37faaea8.woff2",
+    "static/media/NotoSerifJP600.woff2": "/static/media/NotoSerifJP600.ca218d7c5ba81b337aea.woff2",
+    "static/media/NotoSerifJP700.woff2": "/static/media/NotoSerifJP700.fb699c2e35bcf600b498.woff2",
+    "static/media/NotoSerifJP900.woff2": "/static/media/NotoSerifJP900.b0b857096a8a27f79b99.woff2",
+    "static/media/NotoSerifJP400Special.woff2": "/static/media/NotoSerifJP400Special.4dc6bb8604cdac270fd2.woff2",
+    "static/media/NotoSerifJP60061.woff2": "/static/media/NotoSerifJP60061.1a7a71c31382c386bdc1.woff2",
+    "static/media/NotoSansJP61.woff2": "/static/media/NotoSansJP61.4745c4de0f1c29766f2f.woff2",
+    "static/media/NotoSansJP115.woff2": "/static/media/NotoSansJP115.7da72789742ca83288d9.woff2",
+    "static/media/SawarabiMincho.woff2": "/static/media/SawarabiMincho.d7a3eaaa16a0f19c1867.woff2",
+    "static/media/NotoSerifJP600115.woff2": "/static/media/NotoSerifJP600115.3e17dfccf35288d754dc.woff2",
+    "static/media/NotoSerifJP500115.woff2": "/static/media/NotoSerifJP500115.e6fb1ef170762b990839.woff2",
+    "static/media/NotoSerifJP400115.woff2": "/static/media/NotoSerifJP400115.925388e145b5d1b56774.woff2",
+    "static/media/MPLUSRounded1c.woff2": "/static/media/MPLUSRounded1c.1112fdbac4e08271ddaa.woff2",
+    "static/media/NotoSerifJP400116.woff2": "/static/media/NotoSerifJP400116.b1d413fe4e0dfbe40460.woff2",
+    "static/media/NotoSansJP116.woff2": "/static/media/NotoSansJP116.faf0e6687a8d1ebdf33f.woff2",
+    "static/media/NotoSerifJP600116.woff2": "/static/media/NotoSerifJP600116.1c3ca3248c7ebad46585.woff2",
+    "static/media/NotoSerifJP500116.woff2": "/static/media/NotoSerifJP500116.1c859f42681e3daf73a7.woff2",
+    "index.html": "/index.html",
+    "main.d21a5350.css.map": "/static/css/main.d21a5350.css.map",
+    "main.dccf5711.js.map": "/static/js/main.dccf5711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21a5350.css",
+    "static/js/main.dccf5711.js"
+  ]
+}
